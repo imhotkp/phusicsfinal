@@ -1,0 +1,50 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  h1, h5, h6 {
+    color: #1E3A8A;
+  }
+  
+  a {
+    color: #1E3A8A;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .btn-primary {
+    background-color: #1E3A8A;
+    border-color: #1E3A8A;
+  }
+  
+  .site-footer {
+    background-color: #1E3A8A;
+  }
+  
+  .site-footer a {
+    color: #ffffff;
+  }
+  
+  .site-footer a:hover {
+    color: #d1e0ff;
+    text-decoration: underline;
+  }
+  
+  .form-label {
+    font-weight: 500;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  #success-message {
+    font-weight: bold;
+  }
+  
+  
+ 
